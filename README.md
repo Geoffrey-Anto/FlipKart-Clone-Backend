@@ -1,9 +1,5 @@
-# Sanity Clean Content Studio
+# Sanity Content Studio For FlipKart Clone
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+### The API Delivers Category List Which Has Several Items Related To It
 
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+![image](https://user-images.githubusercontent.com/91791834/176941838-28b64676-d112-4c34-80e0-b15f1e23b7e7.png)
